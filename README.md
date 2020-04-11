@@ -1,5 +1,8 @@
-# git-essentials
+#GIT-ESSENTIAL
 
-#vikash
+#this is vikash from kogira roddam mandal
 
-#yadav
+#kogira
+
+#roddam mandal
+
